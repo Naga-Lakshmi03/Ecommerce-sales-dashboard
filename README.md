@@ -21,6 +21,9 @@ An e-commerce company wants to understand its sales performance, customer purcha
 
 - YTD Sales by Region to know best and worst performing region all over country.
 
-- YTD Sales by Shipping Type to get the best Shipping type percentage. 
+- YTD Sales by Shipping Type to get the best Shipping type percentage.
+
+- Dashboard Interaction – <a href="https://github.com/Naga-Lakshmi03/Ecommerce-sales-dashboard/blob/main/Dashboard_Snap.png">View Dashboard</a>
+
 
 
