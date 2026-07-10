@@ -26,8 +26,8 @@ An e-commerce company wants to understand its sales performance, customer purcha
 - Dashboard Interaction – <a href="https://github.com/Naga-Lakshmi03/Ecommerce-sales-dashboard/blob/main/Dashboard_Snap.png">View Dashboard</a>
 
 ## Process 
-1	Understand the Business Problem
-Identified the business objective: to analyse sales performance, profit, customer behaviour, and regional trends to support better business decisions. 
+# Understand the Business Problem
+Identified the business objective to analyse sales performance, profit, customer behaviour, and regional trends to support better business decisions. 
 -	Collect the Dataset
 Gathered the e-commerce sales dataset containing details such as orders, customers, products, regions, sales, profit, and discounts. 
 -	Import the Data
