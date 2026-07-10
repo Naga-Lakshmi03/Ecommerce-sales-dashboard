@@ -58,4 +58,8 @@ Verified that the dashboard answered the business questions and provided meaning
 Shared the dashboard and summarized the key insights and recommendations to help management make data-driven business decisions
 
 
+## Dashboard 
+Dashboardsnap<a href="https://github.com/Naga-Lakshmi03/Ecommerce-sales-dashboard/blob/main/Dashboard_Snap.png">
+
+
 
