@@ -59,7 +59,7 @@ Shared the dashboard and summarized the key insights and recommendations to help
 
 
 ## Dashboard 
-Dashboardsnap<a href="https://github.com/Naga-Lakshmi03/Ecommerce-sales-dashboard/blob/main/Dashboard_Snap.png">
+![Dashboard_Snap](https://github.com/Naga-Lakshmi03/Ecommerce-sales-dashboard/blob/main/Dashboard_Snap.png)
 
 
 
