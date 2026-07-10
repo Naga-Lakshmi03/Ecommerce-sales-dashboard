@@ -24,6 +24,7 @@ An e-commerce company wants to understand its sales performance, customer purcha
 - YTD Sales by Shipping Type to get the best Shipping type percentage.
 
 - Dashboard Interaction – <a href="https://github.com/Naga-Lakshmi03/Ecommerce-sales-dashboard/blob/main/Dashboard_Snap.png">View Dashboard</a>
+
 ##Process 
 -	Understand the Business Problem
 Identified the business objective: to analyse sales performance, profit, customer behaviour, and regional trends to support better business decisions. 
