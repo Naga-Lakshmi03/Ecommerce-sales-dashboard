@@ -61,5 +61,14 @@ Shared the dashboard and summarized the key insights and recommendations to help
 ## Dashboard 
 ![Dashboard_Snap](https://github.com/Naga-Lakshmi03/Ecommerce-sales-dashboard/blob/main/Dashboard_Snap.png)
 
+## Key Business Insights:
+- Profit increased by 4.5% despite a slight decline in overall sales.
+- Furniture was the only category with positive YoY growth.
+- The West region generated the highest sales contribution.
+- Standard Class was the most preferred shipping method.
+- Quantity sold declined by 7.29%, indicating a shift toward higher-value purchases
+
+## Final Conclusion
+This project transformed raw e-commerce sales data into meaningful business insights through data cleaning, transformation, analysis, and dashboard visualization. The interactive dashboard enables decision-makers to monitor key performance indicators, identify sales and profit trends, compare regional and product performance, and understand customer purchasing behaviour. These insights help the business improve profitability, optimize operations, and make informed strategic decisions for sustainable growth.
 
 
